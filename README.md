@@ -38,9 +38,19 @@ cd Cryptography-Algorithms-in-Python
 ```bash
 python filename.py  
 ```
-3️⃣ **Follow the Instructions:*
+3️⃣ **Follow the Instructions:**
 The program will guide you to encrypt or decrypt a message.
 
 ## 🔧 Contributing
-Contributions are welcome! Feel free to open issues, submit pull requests, or suggest new cryptographic algorithms.
+Contributions are welcome! If you'd like to enhance the existing implementations, add new cryptographic algorithms, or fix bugs, feel free to open issues or submit pull requests. Let’s collaborate to make this repository a more comprehensive resource for learning cryptography.
+
+## 📚 Learn More  
+
+If you're interested in learning more about cryptography, check out these resources:  
+
+- [Practical Cryptography for Developers](https://cryptobook.nakov.com/)  
+- *Cryptography and Network Security: Principles and Practice* by William Stallings (Book)  
+
+
+
 
