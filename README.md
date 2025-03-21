@@ -38,5 +38,9 @@ cd Cryptography-Algorithms-in-Python
 ```bash
 python filename.py  
 ```
+3️⃣ **Follow the Instructions:*
+The program will guide you to encrypt or decrypt a message.
 
+## 🔧 Contributing
+Contributions are welcome! Feel free to open issues, submit pull requests, or suggest new cryptographic algorithms.
 
