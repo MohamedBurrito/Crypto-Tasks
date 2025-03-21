@@ -1,11 +1,10 @@
-# Cryptography Algorithms in Python
+# Cryptography Algorithms in Python  
 
-Welcome to **Cryptography Algorithms in Python**, a repository that implements and explains various classical cryptographic techniques using Python.
-
-This project aims to help beginners and enthusiasts learn about encryption, decryption, and the fundamental concepts of cryptography.
+Welcome to **Cryptography Algorithms in Python**, a repository that implements and explains various classical cryptographic techniques using Python.  
+This project aims to help beginners and enthusiasts learn about encryption, decryption, and the fundamental concepts of cryptography.  
 
 ## 📜 Description  
-In this repository, you'll find Python code for several well-known cryptography algorithms, each with detailed examples and instructions for encryption and decryption.
+In this repository, you'll find Python code for several well-known cryptography algorithms, each with detailed examples and instructions for encryption and decryption.  
 
 ### Current Implementations  
 
@@ -32,28 +31,12 @@ In this repository, you'll find Python code for several well-known cryptography 
 
 1️⃣ **Clone the Repository:**  
 ```bash  
-git clone https://github.com/YourUsername/Cryptography-Algorithms-in-Python.git  
-cd Cryptography-Algorithms-in-Python
-
+git clone https://github.com/MohamedBurrito/Cryptography-Algorithms-in-Python.git  
+cd Cryptography-Algorithms-in-Python  
+```
+2️⃣ **Run Any Algorithm File:**
+```bash
 python filename.py  
-
-
----
-
-### **6. Add a Contribution Section**  
-Invite other developers to contribute to the project.  
-
-**Example:**  
-```markdown
-## 🔧 Contributing  
-**Contributions are welcome!** Feel free to open issues, submit pull requests, or suggest new cryptographic algorithms.  
-
-## 📚 Learn More  
-
-If you're interested in learning more about cryptography, check out these resources:  
-
-- [Khan Academy - Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)  
-- [Practical Cryptography for Developers](https://cryptobook.nakov.com/)  
-- *Cryptography and Network Security: Principles and Practice* by William Stallings (Book)  
+```
 
 
